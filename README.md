@@ -1,4 +1,4 @@
-### Hi there 👋
+ 👋 Hi, I'm Prakash Gupta. 
 
 <!--
 **Prakashg7021/Prakashg7021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🤔 A passionate Data Science aspirant.<br>
+👀 I'm interested in full-time Data science roles.<br>
+🌱 I’m currently learning and will keep learning ...<br>📫 How to reach me ... https://www.linkedin.com/in/prakash-gupta-56b558277/
